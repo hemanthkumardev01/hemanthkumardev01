@@ -1,37 +1,51 @@
 # Hi 👋 I'm Hemanth Kumar
 
-WordPress Developer with 2.5+ years experience building customized websites and scalable web solutions.
+💻 WordPress Developer | Front-End Developer  
+🚀 2.5+ Years Experience Building Custom WordPress Solutions
 
-## 🚀 About Me
+---
 
-• WordPress Developer & Front-End Specialist  
+## 👨‍💻 About Me
+
+• WordPress Developer with 2.5+ years experience  
+• Specialized in WordPress customization & dynamic functionality  
 • Experience with Elementor, Avada, Divi, OceanWP  
-• Skilled in PHP, JavaScript, HTML5, CSS3  
-• Passionate about building fast and responsive websites
+• Strong knowledge of PHP, JavaScript, HTML, CSS  
+• Passionate about building scalable and responsive websites  
 
-## 💻 Tech Stack
+---
 
-WordPress  
-PHP  
-JavaScript  
-HTML5  
-CSS3  
-jQuery  
-Git  
+## ⚡ Tech Stack
+
+WordPress | PHP | JavaScript | HTML5 | CSS3 | jQuery | Git | MySQL
+
+---
 
 ## 📂 Featured Projects
 
-• Gravity Forms Dynamic Calculators  
-• WordPress Custom Post Types (CPT)  
-• Theme Customizations  
-• Responsive UI Components
+🔹 WordPress Dynamic Calculators  
+🔹 WordPress Custom Post Types (CPT)  
+🔹 Theme Customizations  
+🔹 Custom Shortcodes Library  
+🔹 Responsive UI Components  
+
+---
+
+## 🚀 Current Focus
+
+• Advanced WordPress customization  
+• JavaScript-based dynamic web tools  
+• WordPress performance optimization  
+
+---
 
 ## 🌐 Portfolio
 
-https://hemanthkumar.dev
+[hemanthkumar.dev](https://hemanthkumar.dev)
+
+---
 
 ## 📫 Contact
 
-Email: hemanthkumar112002@gmail.com 
-
-LinkedIn: https://www.linkedin.com/in/eddum-hemanth-kumar-106b4923a/
+📧 hemanthkumar112002@gmail.com
+🔗 [linkedin.com/in/eddum-hemanth-kumar-106b4923a/](https://www.linkedin.com/in/eddum-hemanth-kumar-106b4923a/)
