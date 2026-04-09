@@ -54,6 +54,6 @@ WordPress | PHP | JavaScript | HTML5 | CSS3 | jQuery | Git | MySQL
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkumardev01&show_icons=true&theme=github_dark)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkumardev01&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumardev01&layout=compact&theme=github_dark)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumardev01&layout=compact&theme=github_dark)
