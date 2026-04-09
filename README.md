@@ -17,7 +17,12 @@
 
 ## ⚡ Tech Stack
 
-WordPress | PHP | JavaScript | HTML5 | CSS3 | jQuery | Git | MySQL
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -47,13 +52,12 @@ WordPress | PHP | JavaScript | HTML5 | CSS3 | jQuery | Git | MySQL
 
 ## 📫 Contact
 
-📧 hemanthkumar112002@gmail.com
+📧 hemanthkumar112002@gmail.com <br>
 🔗 [linkedin.com/in/eddum-hemanth-kumar-106b4923a/](https://www.linkedin.com/in/eddum-hemanth-kumar-106b4923a/)
 
 ---
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkumardev01&show_icons=true&theme=github_dark)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumardev01&layout=compact&theme=github_dark)
+[Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanthkumardev01&show_icons=true) <br>
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumardev01&layout=compact)
