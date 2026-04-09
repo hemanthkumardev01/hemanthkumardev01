@@ -49,3 +49,11 @@ WordPress | PHP | JavaScript | HTML5 | CSS3 | jQuery | Git | MySQL
 
 📧 hemanthkumar112002@gmail.com
 🔗 [linkedin.com/in/eddum-hemanth-kumar-106b4923a/](https://www.linkedin.com/in/eddum-hemanth-kumar-106b4923a/)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkumardev01&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumardev01&layout=compact&theme=github_dark)
